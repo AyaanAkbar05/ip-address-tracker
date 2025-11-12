@@ -4,8 +4,6 @@ During the development of the IP Address Tracker project, the main goal was to c
 
 One of the main challenges was fetching data from Ipify and displaying it accurately on the webpage. Handling asynchronous API calls and ensuring the map updated correctly. CSS styling also came with its own challenges, where I had to adjust font sizes, headers, map, and other elements so that everything looked consistent and neat. Another difficulty was aligning the map and info boxes properly. Ensuring compatibility across different browsers also required extra testing and minor fixes.
 
-Making the project responsive for mobile devices took some extra effort. Media queries helped adjust the layout for smaller screens while keeping it visually appealing.
-
 If I were to improve the project, I’d add error handling for invalid or missing IP inputs, a loading indicator while data is being fetched, and smoother transitions between updates. Overall, this project helped me strengthen my front-end skills and understand how to combine APIs, layout design, and responsive styling to create a functional and user-friendly web application.
 
 # Netlify Link:
